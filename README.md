@@ -1,2 +1,2 @@
 # flutter-component-source
-flutter组件化相关源文件，因需要依赖Flutter故新开仓库存储
+deprecated，不再需要, Flutter组件化只需要把Framework包含进去即可
